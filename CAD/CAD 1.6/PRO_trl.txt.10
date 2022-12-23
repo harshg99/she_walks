@@ -1,0 +1,89 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditDeleteDwg.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 400 99 0 1 1297 778 1680 1050 52646
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 400 99 0 0 1297 778 1680 1050 52733
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 4
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 1
+ 0.001197 0.000000 45.454545 0.000000 45.454545 0.000000
+ -45.454545 0.000000 0.001197 11.977797 796.670356 5.227273 3.051758 0.000000 0
+@ sel view 3
+ 0.001197 0.000000 45.454545 0.000000 45.454545 0.000000
+ -45.454545 0.000000 0.001197 61.206976 794.568641 5.227273 3.051758 0.000000 0
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SEL_REC 0 [] 65 3 -1 (0.0000000000 0.0000000000) (73.0232840617 792.0932390746 0.0000000000)
+!View:new_view_3
+~ Key `main_dlg_cur` `proe_win` 9 400 99 196608 0 1297 778 1680 1050 52733 `Del`
+~ Command `ProCmdEditDelete` 
+! Executed sub-command ProCmdEditDeleteDwg.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 229 79 0 1 1297 778 1680 1050 53470
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 229 79 0 0 1297 778 1680 1050 53557
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 4
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 1
+ 0.001197 0.000000 45.454545 0.000000 45.454545 0.000000
+ -45.454545 0.000000 0.001197 11.977797 796.670356 5.227273 3.051758 0.000000 0
+@ sel stop
+@ stack idx 0
+@SEL_REC 0 [] 65 1 -1 (0.0000000000 0.0000000000) (12.2545437018 799.2006940874 0.0000000000)
+!View:new_view_1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 340 61 0 513 1297 778 1680 1050 55252
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 340 61 0 0 1297 778 1680 1050 55340
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 4
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 3.051758 0.000000 0
+@ sel view 1
+ 0.001197 0.000000 45.454545 0.000000 45.454545 0.000000
+ -45.454545 0.000000 0.001197 11.977797 796.670356 5.227273 3.051758 0.000000 0
+@ sel stop
+~ Command `ProCmdViewRefit` 
+~ Wheel `main_dlg_cur` `proe_win` 9 162 7 458752 0 1297 778 1680 1050 57564
+~ Wheel `main_dlg_cur` `proe_win` 9 161 7 458752 0 1297 778 1680 1050 57676
+~ Wheel `main_dlg_cur` `proe_win` 9 161 7 458752 0 1297 778 1680 1050 57716
+~ Wheel `main_dlg_cur` `proe_win` 9 161 7 458752 0 1297 778 1680 1050 57780
+~ Wheel `main_dlg_cur` `proe_win` 9 161 7 458752 0 1297 778 1680 1050 57813
+~ Wheel `main_dlg_cur` `proe_win` 9 195 31 458752 0 1297 778 1680 1050 58228
+~ Wheel `main_dlg_cur` `proe_win` 9 195 32 458752 0 1297 778 1680 1050 58270
+~ Wheel `main_dlg_cur` `proe_win` 9 195 33 458752 0 1297 778 1680 1050 58310
+~ Wheel `main_dlg_cur` `proe_win` 9 195 33 458752 0 1297 778 1680 1050 58337
+~ Wheel `main_dlg_cur` `proe_win` 9 195 33 458752 0 1297 778 1680 1050 58378
+~ Wheel `main_dlg_cur` `proe_win` 9 372 216 393216 1024 1297 778 1680 1050 59300
+~ Wheel `main_dlg_cur` `proe_win` 9 372 216 393216 0 1297 778 1680 1050 59336
+~ Wheel `main_dlg_cur` `proe_win` 9 372 216 393216 0 1297 778 1680 1050 59369
+~ Command `ProCmdModelSave` 
+!%CIDRW0001 has been saved.
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_617`
+~ Update `file_saveas` `Inputname` `12_gear`
+~ Activate `file_saveas` `OK`
+! Message Dialog: Warning
+!               : The file 12_gear.pdf already exists, continue anyway?
+~ Activate `UI Message Dialog` `ok`
+~ Activate `intf_profile` `OkPshBtn`
+!%CIPDF file is being created...
+!%CIPDF file has been created.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
